@@ -1,4 +1,7 @@
 # Changelog for EDShields
 
+1.0.1.0 - Last update, added end-of-life message
+
+
 1.0.0.0 - First publish
 

@@ -5,8 +5,19 @@
 Update of Jaxxas mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=726884610
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+- Chinese translation https://steamcommunity.com/sharedfiles/filedetails/?id=2566734315
 
+![Image](https://i.imgur.com/CN9Rs5X.png)
+
+
+[table]
+    [tr]
+        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
+[/td]
+        [td]https://github.com/emipa606/EDShields]![Image](https://i.imgur.com/kTkpTOE.png)
+[/td]
+    [/tr]
+[/table]
 	
 ![Image](https://i.imgur.com/NOW7jU1.png)
 
